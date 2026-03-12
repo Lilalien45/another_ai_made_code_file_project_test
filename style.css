@@ -1,0 +1,22 @@
+
+body{
+background:#0f0f0f;
+color:white;
+font-family:arial;
+}
+
+button{
+padding:10px;
+margin:5px;
+background:#222;
+color:white;
+border:1px solid gray;
+}
+
+#dropZone{
+
+border:2px dashed gray;
+padding:40px;
+width:200px;
+
+}
